@@ -1,9 +1,7 @@
 public class FizzBuzz {
-    private int from;
     private int to;
 
-    public FizzBuzz(int from, int to) {
-        this.from = from;
+    public FizzBuzz(int to) {
         this.to = to;
     }
 
